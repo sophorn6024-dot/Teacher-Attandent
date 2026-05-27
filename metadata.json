@@ -1,0 +1,8 @@
+{
+  "name": "Teacher Attendance & Management System",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងទិន្នន័យគ្រូ និងចុះវត្តមានប្រចាំថ្ងៃតាមរយៈ QR Code ព្រមទាំងនាំចេញទិន្នន័យជាឯកសារ Excel",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
